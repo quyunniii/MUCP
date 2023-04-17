@@ -46,7 +46,9 @@ Our theory of change is to redirect the focus of development from main streets t
 ### My Contributions -- Data Driven Approach for Designing Interventions
 During the porject I worked on collecting original data and inspecting external data that contributed to identifying existing problems and designing of our  interventions. I analyzed business types in DT Yonge, accidents involving pedestrians, and the relationship between store vacancies and crime cases. My contribution was essential in identifying the impact of store vacancies on the area's safety and overall business environment, providing valuable insights into potential interventions to address this issue. 
 
+<p align="center">
 <img src="corridor.png" alt="drawing" width="500"/>
+</p>
 
 > I collected, analyzed, and visualized the data that shows a breakdown of business types in Downtown Yonge. This data helped our understanding of the area's business landscape and led to recommendations for buiding more civic infrastructures.
 
@@ -64,7 +66,8 @@ During the porject I worked on collecting original data and inspecting external 
 > I divided our region into 8 sub-regions to inspect the connection between store vacancy and crime cases. In the context of the data, pedestrianization could potentially be a solution to address some of the issues present in the sub-regions with high crime rates and/or high store vacancies. This has led to
 designing of physical interventions that pedestrianize the streets. Pedestrianization can encourage more people to visit the area, which can in turn support local businesses and potentially reduce the number of store vacancies. 
 
+<p align="center">
 <img src="accidents.png" alt="drawing" width="700"/>
+</p>
 
-> I inspected the data from Toronto police that shows the accidents in different areas in Toronto and took a subset for Downtown Yonge, breaking down the accidents in to pedestrian and cyclist. This map include all the accidents involving cyclists and pedestrians in DT Yonge. This map helped us shape our plan for pedestrianizing Downtown Yonge. Specifically, adding the crosswalks and bike lanes. Adding crosswalks can make it easier for pedestrians to cross busy streets, while adding bike lanes can provide a designated space for cyclists to travel, reducing the likelihood of collisions with vehicles. <br />
-> Additinally, I looked at traffic flow data in major intersetions in DT Yonge to make sure that our pedestranization plan won't interupt normal traffic flow.
+> I inspected the data from Toronto police that shows the accidents in different areas in Toronto and took a subset for Downtown Yonge, breaking down the accidents in to pedestrian and cyclist. This map include all the accidents involving cyclists and pedestrians in DT Yonge. This map helped us shape our plan for pedestrianizing Downtown Yonge. Specifically, adding the crosswalks and bike lanes. Adding crosswalks can make it easier for pedestrians to cross busy streets, while adding bike lanes can provide a designated space for cyclists to travel, reducing the likelihood of collisions with vehicles. Additinally, I looked at traffic flow data in major intersetions in DT Yonge to make sure that our pedestranization plan won't interupt normal traffic flow.
