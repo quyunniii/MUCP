@@ -44,3 +44,4 @@ Our theory of change is to redirect the focus of development from main streets t
 
 
 ### My Contributions and Takeaways
+During the porject I worked on collecting and summarizing external data sets that contributed to our design interventions.
