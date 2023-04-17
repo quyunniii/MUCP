@@ -64,3 +64,7 @@ During the porject I worked on collecting original data and inspecting external 
 > I divided our region into 8 sub-regions to inspect the connection between store vacancy and crime cases. In the context of the data, pedestrianization could potentially be a solution to address some of the issues present in the sub-regions with high crime rates and/or high store vacancies. This has led to
 designing of physical interventions that pedestrianize the streets. Pedestrianization can encourage more people to visit the area, which can in turn support local businesses and potentially reduce the number of store vacancies. 
 
+<img src="accidents.png" alt="drawing" width="700"/>
+
+> I inspected the data from Toronto police that shows the accidents in different areas in Toronto and took a subset for Downtown Yonge, breaking down the accidents in to pedestrian and cyclist. This map include all the accidents involving cyclists and pedestrians in DT Yonge. This map helped us shape our plan for pedestrianizing Downtown Yonge. Specifically, adding the crosswalks and bike lanes. Adding crosswalks can make it easier for pedestrians to cross busy streets, while adding bike lanes can provide a designated space for cyclists to travel, reducing the likelihood of collisions with vehicles. <br />
+> Additinally, I looked at traffic flow data in major intersetions in DT Yonge to make sure that our pedestranization plan won't interupt normal traffic flow.
