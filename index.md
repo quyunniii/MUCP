@@ -46,6 +46,9 @@ Our theory of change is to redirect the focus of development from main streets t
 ### My Contributions -- Data Driven Approach for Designing Interventions
 During the porject I worked on collecting original data and inspecting external data that contributed to identifying existing problems and designing of our  interventions. I analyzed business types in DT Yonge, accidents involving pedestrians, and the relationship between store vacancies and crime cases. My contribution was essential in identifying the impact of store vacancies on the area's safety and overall business environment, providing valuable insights into potential interventions to address this issue. 
 
+<img src="corridor.png" alt="drawing" width="800"/>
+
+> I collected, analyzed, and visualized the data that shows a breakdown of business types in Downtown Yonge. This data helped our understanding of the area's business landscape and led to recommendations for buiding more civic infrastructures.
 
 | Sub-region   | store vacancy     | crime cases |
 |:-------------|:------------------|:------|
