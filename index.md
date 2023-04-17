@@ -1,7 +1,9 @@
-# Pandemic Impact on Main Street: Downtown Yonge 
-## University of Toronto X Canadian Urban Institute
+---
+layout: default
+---
+<p align="center">
 <img src="CUI-UT-logo.png" alt="drawing" width="300"/>
-
+</p>
 
 
 ### About
