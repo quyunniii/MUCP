@@ -14,7 +14,7 @@ layout: default
 >> Yunni Qu (me), Department of Computer Science   
 >> Wana Saiful, Department of Geography & Planning  
 >> Reese Halfyard, Faculty of Information  
->> Xingtian Gong (Kiana), John H. Daniels Faculty of Architecture, Landscape and Design  
+>> Xingtian (Kiana) Gong , John H. Daniels Faculty of Architecture, Landscape and Design  
 
 ### About
 Downtown Yonge is an iconic street in Toronto that has played a central role in the city's cultural landscape, transportation network, and economic development. However, the COVID-19 pandemic has severely impacted its urban life and local community endurance, revealing existing infrastructural and societal issues that require immediate attention. This project aims to reimagine Downtown Yonge by proposing solutions to enhance its livability and sustainability in the wake of the pandemic.
