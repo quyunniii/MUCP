@@ -43,5 +43,19 @@ Our theory of change is to redirect the focus of development from main streets t
 >> To improve connectivity, secondary streets can be pedestrianized, and living street designs can be implemented, including complete streets and woonerfs. This approach prioritizes pedestrians, cyclists, and public transit and creates social spaces that attract diverse user interactions.
 
 
-### My Contributions and Takeaways
-During the porject I worked on collecting and summarizing external data sets that contributed to our design interventions.
+### My Contributions -- A Data Driven Approach for Designing Interventions
+During the porject I worked on collecting original data and inspecting external data that contributed to identifying existing problems and designing of our  interventions. I analyzed business types in DT Yonge, accidents involving pedestrians, and the relationship between store vacancies and crime cases. My contribution was essential in identifying the impact of store vacancies on the area's safety and overall business environment, providing valuable insights into potential interventions to address this issue. 
+
+
+| Sub-region   | store vacancy     | crime cases |
+|:-------------|:------------------|:------|
+| College-Bay           | 2 | 7  |
+| College-Yonge | 1   | 17  |
+|Gerrard-Bay  | 4  | 5  |
+| Gerrard-Yonge  | 6 | 20  |
+| Dundas-Bay| 1     | 9   |
+| Dundas-Yonge| 11 | 48  |
+| Queen-Bay| 1 | 4  |
+| Queen-Yonge | 1 | 4  |
+
+
