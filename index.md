@@ -58,4 +58,6 @@ During the porject I worked on collecting original data and inspecting external 
 | Queen-Bay| 1 | 4  |
 | Queen-Yonge | 1 | 4  |
 
+> I divided our region into 8 sub-regions to inspect the connection between store vacancy and crime cases. In the context of the data, pedestrianization could potentially be a solution to address some of the issues present in the sub-regions with high crime rates and/or high store vacancies. This has led to
+designing of physical interventions that pedestrianize the streets. Pedestrianization can encourage more people to visit the area, which can in turn support local businesses and potentially reduce the number of store vacancies. 
 
