@@ -30,8 +30,10 @@ To develop our design interventions for Downtown Yonge, we used a mixed-methods 
 Our theory of change is to redirect the focus of development from main streets to secondary streets along Yonge street, creating more gathering spaces for pedestrians, cyclists, and local businesses. These spaces are crucial to the community's well-being and mental health, especially post-pandemic, as they facilitate engagement and interaction. Through a combination of physical, programmatic, and municipal changes, the theory aims to promote social vitality, safety, and equitable neighborhoods, enabling more effective and long-lasting placemaking activities in the community.
 > Municipal Investments: <br />
 >>The Safe Inclusive Strategy developed by the Downtown Yonge BIA provides various strategies to address homelessness, violence, and substance abuse. However, to address the root issue of poverty and high living costs, it is recommended to partner with municipal leaders to increase social housing and safe injection sites, which can provide permanent solutions to alleviate pain points for Toronto's homeless population. <br />
+
 > Program-Based Interventions: <br />
 >> Small-scale placemaking activities that are community-focused can help build capacity and address community issues in DT Yonge. One such approach could be to promote local artists to highlight the area's rich musical history, contributing to the community's cultural identity and sense of place. This could involve creating performance spaces, hosting music festivals, or supporting local musicians through public art installations or workshops, all of which can foster community engagement and create a vibrant, thriving neighborhood. <br />
+
 > Phsical-Based Interventions: <br />
 >> To improve connectivity, secondary streets can be pedestrianized, and living street designs can be implemented, including complete streets and woonerfs. This approach prioritizes pedestrians, cyclists, and public transit and creates social spaces that attract diverse user interactions.
 
