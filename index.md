@@ -5,6 +5,12 @@ layout: default
 <img src="CUI-UT-logo.png" alt="drawing" width="700"/>
 </p>
 
+### Pandemic Impact on Main Streets: Downtown Yonge
+>Group Members:
+>> Yunni Qu (me), Department of Computer Science
+>> Wana Saiful, Department of Geography & Planning
+>> Reese Halfyard, Faculty of Information
+>> Xingtian Gong (Kiana), John H. Daniels Faculty of Architecture, Landscape and Design
 
 ## About
 > This project is my senior year Multidisciplinary Urban Capstone Design Course offered by University of Toronto, where I worked in a group of 4 students from different disciplines. 
