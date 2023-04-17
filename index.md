@@ -6,7 +6,10 @@ layout: default
 </p>
 
 ## Pandemic Impact on Main Streets: Downtown Yonge
-<img src="yd.png" alt="drawing" width="1000"/>
+<p align="center">
+<img src="yd.png" alt="drawing" width="800"/>
+</p>
+
 >Group Members:  
 >> Yunni Qu (me), Department of Computer Science   
 >> Wana Saiful, Department of Geography & Planning  
