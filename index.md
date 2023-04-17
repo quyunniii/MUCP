@@ -30,7 +30,7 @@ To develop our design interventions for Downtown Yonge, we used a mixed-methods 
 Our theory of change is to redirect the focus of development from main streets to secondary streets along Yonge street, creating more gathering spaces for pedestrians, cyclists, and local businesses. These spaces are crucial to the community's well-being and mental health, especially post-pandemic, as they facilitate engagement and interaction. Through a combination of physical, programmatic, and municipal changes, the theory aims to promote social vitality, safety, and equitable neighborhoods, enabling more effective and long-lasting placemaking activities in the community.
 
 <p align="center">
-<img src="map.png" alt="drawing" width="500"/>
+<img src="plan.png" alt="drawing" width="500"/>
 </p>
 
 > Municipal Investments: <br />
