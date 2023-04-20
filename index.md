@@ -42,6 +42,8 @@ Our theory of change is to redirect the focus of development from main streets t
 > Phsical-Based Interventions: <br />
 >> To improve connectivity, secondary streets can be pedestrianized, and living street designs can be implemented, including complete streets and woonerfs. This approach prioritizes pedestrians, cyclists, and public transit and creates social spaces that attract diverse user interactions.
 
+[<p align="center"><img src="report_logo.png" alt="drawing" width="200"/></p>]("MUCP Final Report.pdf")
+
 
 ### My Contributions -- Data Driven Approach for Designing Interventions
 During the porject I worked on collecting original data and inspecting external data that contributed to identifying existing problems and designing of our  interventions. I analyzed business types in DT Yonge, accidents involving pedestrians, and the relationship between store vacancies and crime cases. My contribution was essential in identifying the impact of store vacancies on the area's safety and overall business environment, providing valuable insights into potential interventions to address this issue. 
