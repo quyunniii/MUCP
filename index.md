@@ -42,7 +42,7 @@ Our theory of change is to redirect the focus of development from main streets t
 > Phsical-Based Interventions: <br />
 >> To improve connectivity, secondary streets can be pedestrianized, and living street designs can be implemented, including complete streets and woonerfs. This approach prioritizes pedestrians, cyclists, and public transit and creates social spaces that attract diverse user interactions.
 
-[<p align="center"><img src="report_logo.png" alt="drawing" width="200"/></p>]("MUCP Final Report.pdf")
+[<img src="report_logo.png" alt="drawing" width="200"/>]("MUCP Final Report.pdf")
 
 
 ### My Contributions -- Data Driven Approach for Designing Interventions
